@@ -132,5 +132,7 @@ resultado = comparar(nro,nro2)
 print(resultado)
 
 
-    
+# nro = int("4")
+# texto = str(nro)
+
 
